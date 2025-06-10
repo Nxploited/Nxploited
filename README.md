@@ -44,7 +44,7 @@
 ## 🌐 Socials
 
 [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@nxploit)  
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Nxploit1)  
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Nxploited)  
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@Nxploited)  
 📧 **Email:** [NxploitBot@gmail.com](mailto:NxploitBot@gmail.com)  
 📨 **Telegram:** [@Kxploit](https://t.me/Kxploit)
