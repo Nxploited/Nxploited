@@ -2,6 +2,12 @@
 <h3 align="center"><code>Khaled Al Enazi</code> | Offensive Security Researcher | Exploit Developer | CVE Hunter</h3>
 
 <p align="center">
+  <a href="https://t.me/KNxploited">
+    <img src="https://img.shields.io/badge/Telegram-Channel-blue?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&color=F70000&center=true&vCenter=true&width=500&lines=Ethical+Hacker;Cybersecurity+Specialist;WordPress+0-Day+Hunter;Exploit+Writer" />
 </p>
 
@@ -34,20 +40,18 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Nxploited&theme=dark&hide_border=true&show_icons=true&hide=prs,issues,contribs" />
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Nxploited&theme=dark&hide_border=true"/>
-  <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nxploited&layout=compact&theme=dark&hide_border=true"/>
 </p>
 
 ---
 
 ## 🌐 Socials
-
 [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@nxploit)  
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Nxploited)  
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@Nxploited)  
 📧 **Email:** [NxploitBot@gmail.com](mailto:NxploitBot@gmail.com)  
-📨 **Telegram:** [@Kxploit](https://t.me/Kxploit)
+📨 **Telegram:** [@Kxploit](https://t.me/Kxploit)  
+📡 **Telegram Channel:** [@KNxploited](https://t.me/KNxploited)
 
 ---
 
