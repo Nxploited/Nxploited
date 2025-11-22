@@ -4,7 +4,6 @@ Nxploited Banner Display Tool
 A professional CLI tool that displays the Nxploited banner with animations.
 """
 
-import sys
 import time
 
 
