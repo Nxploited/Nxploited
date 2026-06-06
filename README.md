@@ -110,26 +110,6 @@
 
 ---
 
-## <samp>// Telemetry</samp>
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Nxploited&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF0033&icon_color=FF0033&text_color=FFFFFF&hide=prs,issues,contribs&include_all_commits=true&count_private=true" />
-<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=Nxploited&theme=radical&hide_border=true&background=0D1117&ring=FF0033&fire=FF0033&currStreakLabel=FF0033" />
-
-<br/>
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nxploited&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF0033&text_color=FFFFFF&langs_count=8" />
-<img height="180" src="https://github-profile-trophy.vercel.app/?username=Nxploited&theme=darkhub&no-frame=true&no-bg=true&row=2&column=4&margin-w=10" />
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Nxploited&bg_color=0D1117&color=FF0033&line=8B0000&point=FFFFFF&area=true&hide_border=true" width="98%" />
-
-</div>
-
----
-
 ## <samp>// Channels</samp>
 
 <div align="center">
