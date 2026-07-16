@@ -396,6 +396,7 @@ def check_admin(
     wp-admin/index.php for admin-specific content AND verifying plugin-install
     access (deep check from big.py).
     """
+    host = extract_host(base)
     try:
         r = session.get(
             base + "/wp-admin/index.php",
@@ -406,7 +407,7 @@ def check_admin(
         if not any(ind in r.text for ind in ADMIN_INDICATORS):
             return False
         # Deep verification: plugin install page
-        return verify_admin_plugin_access(session, base, timeout)
+        return verify_admin_plugin_access(session, base, host, timeout)
     except Exception:
         return False
 
