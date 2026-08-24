@@ -1,156 +1,335 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:FF0033,100:000000&height=3&width=900&section=header" alt=""/>
+<img
+  src="https://capsule-render.vercel.app/api?type=rect&color=0:050505,50:8B0000,100:050505&height=3&width=900&section=header"
+  width="900"
+  alt=""
+/>
+
+<br/>
 
 <a href="https://github.com/Nxploited">
-  <img src="./nxploit-banner-anime-glow.png" alt="Nxploited" width="900" />
+  <img
+    src="https://raw.githubusercontent.com/Nxploited/Nxploited/main/photo_2026-08-24_22-36-12.jpg"
+    alt="Nxploited"
+    width="780"
+  />
 </a>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:FF0033,100:000000&height=3&width=900&section=header" alt=""/>
-
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=900&size=70&duration=350&pause=2500&color=FF0033&center=true&vCenter=true&width=900&height=110&lines=Nxploited" alt="Nxploited" />
-
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=FF0033&center=true&vCenter=true&width=780&height=45&lines=%E2%9A%A1+Khaled+Al+Enazi+%2F%2F+Nxploited;%5B+Offensive+Security+Researcher+%5D;%5B+Exploit+Developer+%5D;%5B+CVE+Hunter+%5D;%5B+WordPress+0-Day+Hunter+%5D;%3E+root%40nxploit%3A~%23+access_granted_" alt="Roles" />
+<img
+  src="https://capsule-render.vercel.app/api?type=rect&color=0:050505,50:8B0000,100:050505&height=3&width=900&section=header"
+  width="900"
+  alt=""
+/>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=Nxploited&label=Profile%20Visitors&color=8B0000&style=for-the-badge" alt="profile views"/>
-<img src="https://img.shields.io/github/followers/Nxploited?label=Followers&style=for-the-badge&color=8B0000&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/Status-Hunting_0--Days-8B0000?style=for-the-badge&logo=hackthebox&logoColor=white" />
-<img src="https://img.shields.io/badge/Region-Saudi_Arabia-006C35?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA2NCA2NCI+PHBhdGggZmlsbD0iIzAwNkMzNSIgZD0iTTAgMGg2NHY2NEgweiIvPjwvc3ZnPg==&logoColor=white" />
+<img
+  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=54&duration=500&pause=2600&color=FF0033&center=true&vCenter=true&width=900&height=90&lines=Nxploited"
+  alt="Nxploited"
+/>
+
+<img
+  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=2800&pause=1200&color=777777&center=true&vCenter=true&width=900&height=42&lines=Khaled+Al+Enazi+%2F%2F+Nxploited;Offensive+Security+Researcher;Exploit+Developer+%2F%2F+CVE+Hunter;WordPress+Security+Researcher;%3E+root%40nxploit%3A~%23+access_granted_"
+  alt="Nxploited Identity"
+/>
+
+<br/><br/>
+
+<img
+  src="https://komarev.com/ghpvc/?username=Nxploited&label=PROFILE%20VISITORS&color=8B0000&style=flat-square"
+  alt="Profile Visitors"
+/>
+&nbsp;
+<img
+  src="https://img.shields.io/github/followers/Nxploited?label=FOLLOWERS&style=flat-square&color=8B0000&logo=github&logoColor=white"
+  alt="Followers"
+/>
+&nbsp;
+<img
+  src="https://img.shields.io/badge/STATUS-RESEARCHING-111111?style=flat-square&logo=hackthebox&logoColor=8B0000"
+  alt="Researching"
+/>
+&nbsp;
+<img
+  src="https://img.shields.io/badge/SAUDI%20ARABIA-006C35?style=flat-square"
+  alt="Saudi Arabia"
+/>
+
+<br/><br/>
+
+<sub>
+  <samp>observe. trace. understand. disappear.</samp>
+</sub>
 
 </div>
+
+<br/>
 
 ---
 
 <div align="center">
 
-```ansi
-┌──(nxploit㉿shadow)─[~/exploits]
-└─# whoami --verbose
-> name      : Khaled Al Enazi
-> alias     : Nxploited
-> role      : Offensive Security Researcher
-> craft     : Exploit Development · CVE Hunting · Red Team Ops
-> location  : Riyadh, Saudi Arabia
-> motto     : "I was here before you noticed, and gone before you realized."
+### <samp>// IDENTITY</samp>
+
+```text
+┌──(nxploit㉿shadow)─[~/research]
+│
+├── name       : Khaled Al Enazi
+├── alias      : Nxploited
+├── role       : Offensive Security Researcher
+├── craft      : Exploit Development · CVE Hunting
+├── focus      : Web Applications · WordPress
+├── method     : Source Review · Attack Surface Analysis
+├── location   : Riyadh, Saudi Arabia
+│
+└── status     : [ observing ]
 ```
+
+<sub>
+<i>"I was here before you noticed, and gone before you realized."</i>
+</sub>
 
 </div>
 
+<br/>
+
 ---
 
-## <samp>// About Me</samp>
+## <samp>// ABOUT ME</samp>
 
-<img align="right" width="320" src="./nxploit-mascot-mystery.png" alt="Nxploited" />
+<img
+  align="right"
+  width="300"
+  src="./nxploit-mascot-mystery.png"
+  alt="Nxploited"
+/>
 
-> A researcher of hidden system structures.  
-> I observe what others overlook — and analyze the familiar to uncover the unexpected.  
-> Where conventional inspection ends, my work begins.
+A researcher of hidden system structures.
 
-- 🩸 Hunting **0-days** in CMS, plugins & web stacks  
-- 🧬 Crafting **weaponized exploits** & PoCs  
-- 🕷️ Disclosing through **CVE / WPScan / GitHub Advisory**  
-- 🌐 Specialized in **WordPress security research**  
-- 🔻 Believer in **silence over noise**, **proof over claim**
+I observe what others overlook — tracing application behavior beyond the visible surface and examining the assumptions buried inside trusted code.
 
-<p align="left"><sub><i>" In the silence of code, I found a language no one speaks. "</i></sub></p>
+Where conventional inspection ends, my work begins.
+
+<br/>
+
+- `0x01` &nbsp; Hunting **0-days** across CMS, plugins & web stacks
+- `0x02` &nbsp; Developing **exploits & proof-of-concepts**
+- `0x03` &nbsp; Auditing application **source code**
+- `0x04` &nbsp; Mapping hidden **attack surfaces**
+- `0x05` &nbsp; Researching **WordPress plugins & themes**
+- `0x06` &nbsp; Publishing through **CVE / WPScan / GitHub Advisory**
+
+<br/>
+
+> **Silence over noise. Proof over claim.**
+
+<p align="left">
+  <sub>
+    <i>"In the silence of code, I found a language no one speaks."</i>
+  </sub>
+</p>
 
 <br clear="right"/>
 
 ---
 
-## <samp>// Arsenal</samp>
+## <samp>// RESEARCH</samp>
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,php,cs,dotnet,html,bash,powershell,linux,kali,docker,git,vscode,vim,mysql,postgres&theme=dark" />
-
-<br/><br/>
-
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-004088?style=for-the-badge&logo=nmap&logoColor=white)
-![sqlmap](https://img.shields.io/badge/sqlmap-000000?style=for-the-badge&logo=sqlite&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![Ghidra](https://img.shields.io/badge/Ghidra-CC0000?style=for-the-badge&logo=ghidra&logoColor=white)
-![Tor](https://img.shields.io/badge/Tor-7D4698?style=for-the-badge&logo=torproject&logoColor=white)
-![WPScan](https://img.shields.io/badge/WPScan-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+```text
+           ┌───────────────────────────┐
+           │     RESEARCH SURFACE      │
+           └─────────────┬─────────────┘
+                         │
+        ┌────────────────┼────────────────┐
+        │                │                │
+        ▼                ▼                ▼
+   Web Security      Source Review     CVE Hunting
+        │                │                │
+        ├─ WordPress     ├─ PHP           ├─ 0-Day
+        ├─ Plugins       ├─ C#            ├─ Analysis
+        ├─ Themes        ├─ .NET          └─ Disclosure
+        └─ CMS           └─ JavaScript
+```
 
 </div>
 
+<br/>
+
+<table align="center">
+<tr>
+<td align="center"><b>01</b></td>
+<td><code>Zero-Day Vulnerability Research</code></td>
+</tr>
+<tr>
+<td align="center"><b>02</b></td>
+<td><code>WordPress Plugin / Theme Auditing</code></td>
+</tr>
+<tr>
+<td align="center"><b>03</b></td>
+<td><code>Web Application Security</code></td>
+</tr>
+<tr>
+<td align="center"><b>04</b></td>
+<td><code>Authentication & Authorization Flaws</code></td>
+</tr>
+<tr>
+<td align="center"><b>05</b></td>
+<td><code>File Upload & Execution Paths</code></td>
+</tr>
+<tr>
+<td align="center"><b>06</b></td>
+<td><code>Injection & Input Validation</code></td>
+</tr>
+<tr>
+<td align="center"><b>07</b></td>
+<td><code>Source-Code Analysis</code></td>
+</tr>
+<tr>
+<td align="center"><b>08</b></td>
+<td><code>Exploit / Proof-of-Concept Development</code></td>
+</tr>
+</table>
+
+<br/>
+
 ---
 
-## <samp>// Public Disclosures</samp>
+## <samp>// ARSENAL</samp>
 
 <div align="center">
+
+<sub><samp>LANGUAGES · PLATFORMS · ENVIRONMENTS</samp></sub>
+
+<br/><br/>
+
+<img
+  src="https://skillicons.dev/icons?i=python,php,cs,dotnet,html,bash,powershell,linux,kali,docker,git,vscode,vim,mysql,postgres&theme=dark"
+  alt="Technical Arsenal"
+/>
+
+<br/><br/><br/>
+
+<sub><samp>SECURITY TOOLING</samp></sub>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Burp_Suite-111111?style=flat-square&logo=burpsuite&logoColor=FF6633" alt="Burp Suite"/>
+<img src="https://img.shields.io/badge/Metasploit-111111?style=flat-square&logo=metasploit&logoColor=2596CD" alt="Metasploit"/>
+<img src="https://img.shields.io/badge/Nmap-111111?style=flat-square&logo=nmap&logoColor=white" alt="Nmap"/>
+<img src="https://img.shields.io/badge/sqlmap-111111?style=flat-square&logo=sqlite&logoColor=white" alt="sqlmap"/>
+<img src="https://img.shields.io/badge/Wireshark-111111?style=flat-square&logo=wireshark&logoColor=1679A7" alt="Wireshark"/>
+<img src="https://img.shields.io/badge/Ghidra-111111?style=flat-square&logoColor=CC0000" alt="Ghidra"/>
+<img src="https://img.shields.io/badge/Tor-111111?style=flat-square&logo=torproject&logoColor=7D4698" alt="Tor"/>
+<img src="https://img.shields.io/badge/WPScan-111111?style=flat-square&logo=wordpress&logoColor=21759B" alt="WPScan"/>
+
+</div>
+
+<br/>
+
+---
+
+## <samp>// PUBLIC DISCLOSURES</samp>
+
+<div align="center">
+
+<br/>
 
 <a href="https://www.cve.org/CVERecord/SearchResults?query=Nxploited">
-  <img src="https://img.shields.io/badge/MITRE_CVE-Records-8B0000?style=for-the-badge&logo=mitre&logoColor=white&labelColor=000000" height="42" />
+  <img
+    src="https://img.shields.io/badge/CVE.org-Nxploited-8B0000?style=for-the-badge"
+    alt="CVE.org Nxploited"
+  />
 </a>
-<a href="https://wpscan.com/profile/nxploited">
-  <img src="https://img.shields.io/badge/WPScan-Researcher-21759B?style=for-the-badge&logo=wordpress&logoColor=white&labelColor=000000" height="42" />
-</a>
-<a href="https://patchstack.com/database/researcher/">
-  <img src="https://img.shields.io/badge/Patchstack-Hall_of_Fame-7C3AED?style=for-the-badge&logo=wordpress&logoColor=white&labelColor=000000" height="42" />
-</a>
-<a href="https://github.com/Nxploited?tab=repositories">
-  <img src="https://img.shields.io/badge/GitHub-Advisories-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" height="42" />
+
+&nbsp;
+
+<a href="https://github.com/Nxploited">
+  <img
+    src="https://img.shields.io/badge/GitHub-Nxploited-111111?style=for-the-badge&logo=github&logoColor=white"
+    alt="Nxploited GitHub"
+  />
 </a>
 
 <br/><br/>
 
-<sub><i>Click any badge above to view the full record of disclosed vulnerabilities and security advisories.</i></sub>
+```text
+┌──────────────────────────────────────────────┐
+│                                              │
+│   Vulnerability Research                     │
+│   Exploit Development                        │
+│   CVE Hunting                                │
+│   Responsible Security Disclosure            │
+│                                              │
+└──────────────────────────────────────────────┘
+```
 
 </div>
 
+<br/>
+
 ---
 
-## <samp>// Channels</samp>
+## <samp>// ACTIVITY</samp>
 
 <div align="center">
 
-<a href="https://t.me/KNxploited">
-  <img src="https://img.shields.io/badge/Telegram_Channel-%40KNxploited-229ED9?style=for-the-badge&logo=telegram&logoColor=white" />
-</a>
-<a href="https://t.me/Kxploit">
-  <img src="https://img.shields.io/badge/Telegram_DM-%40Kxploit-229ED9?style=for-the-badge&logo=telegram&logoColor=white" />
-</a>
-<a href="https://x.com/Nxploited">
-  <img src="https://img.shields.io/badge/X-@Nxploited-000000?style=for-the-badge&logo=x&logoColor=white" />
-</a>
-<a href="https://tiktok.com/@nxploit">
-  <img src="https://img.shields.io/badge/TikTok-@nxploit-000000?style=for-the-badge&logo=tiktok&logoColor=white" />
-</a>
-<a href="https://youtube.com/@Nxploited">
-  <img src="https://img.shields.io/badge/YouTube-@Nxploited-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-</a>
-<a href="mailto:NxploitBot@gmail.com">
-  <img src="https://img.shields.io/badge/Email-NxploitBot-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
+<img
+  width="49%"
+  src="https://github-readme-stats.vercel.app/api?username=Nxploited&show_icons=true&hide_border=true&bg_color=00000000&title_color=8B0000&text_color=777777&icon_color=8B0000"
+  alt="Nxploited GitHub Statistics"
+/>
+
+<img
+  width="49%"
+  src="https://github-readme-streak-stats.herokuapp.com/?user=Nxploited&hide_border=true&background=00000000&ring=8B0000&fire=FF0033&currStreakLabel=777777&sideLabels=777777&dates=555555&currStreakNum=CCCCCC&sideNums=CCCCCC"
+  alt="Nxploited GitHub Streak"
+/>
 
 </div>
 
+<br/>
+
 ---
 
 <div align="center">
 
-### <samp>// Disclosure Notice</samp>
+<br/>
 
-```diff
-! All security research is performed ethically within controlled lab environments.
-+ Vulnerabilities are disclosed responsibly through CVE / WPScan / GitHub Advisory.
-- Unauthorized use of any code or technique from this profile is strictly prohibited.
+```text
+[ CONNECTION CLOSED ]
+
+trace removed.
+session terminated.
 ```
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B0000,50:000000,100:8B0000&height=120&section=footer&text=%E2%9C%96%20%20Nxploited%20%E2%80%A2%20Khaled%20Al%20Enazi%20%20%E2%9C%96&fontSize=20&fontColor=ffffff&fontAlignY=70" />
+<samp>
+  <sub>
+    Nxploited // Offensive Security Research
+  </sub>
+</samp>
 
-<sub><i>" The most dangerous exploit is the one you'll never see coming. "</i></sub>
+<br/><br/>
+
+<a href="https://github.com/Nxploited">
+  <img
+    src="https://img.shields.io/badge/%3E__Nxploited-050505?style=flat-square&logo=github&logoColor=8B0000"
+    alt="Nxploited"
+  />
+</a>
+
+<br/><br/>
+
+<img
+  src="https://capsule-render.vercel.app/api?type=rect&color=0:050505,50:8B0000,100:050505&height=3&width=900&section=footer"
+  width="900"
+  alt=""
+/>
 
 </div>
